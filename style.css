@@ -20,5 +20,5 @@ header {
 .nav-item:hover {
     cursor: pointer;
     background-color: white;
-    color: blue;
+    color: rgb(40, 189, 209);
 }
