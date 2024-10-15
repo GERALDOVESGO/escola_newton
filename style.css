@@ -5,12 +5,12 @@ body{
 }
 
 header {
-    display: flex
-    justify-content center
+    display: flex;
+    justify-: center;
 }
 
 ul {
-    display: flex
-    list-style none
-    font-size 40px;
+    display: flex;
+    list-style: none;
+    font-size: 40px;
 }
