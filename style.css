@@ -22,3 +22,18 @@ header {
     background-color: rgb(120, 173, 71);
     color: rgb(253, 253, 253);
 }
+
+
+section {
+    width: 100%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 2%;
+}
+
+    .moldura_videos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        
+    }
